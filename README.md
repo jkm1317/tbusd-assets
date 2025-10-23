@@ -13,15 +13,16 @@ Public asset repository for TBillUSD (TBUSD) stablecoin.
 
 **For Wallets (MetaMask, Trust Wallet, etc.):**
 ```
-https://raw.githubusercontent.com/YOUR_USERNAME/tbusd-assets/main/logos/tbusd-logo-256.png
+https://raw.githubusercontent.com/jkm1317/tbusd-assets/main/logos/tbusd-logo-256.png
 ```
 
 **For BaseScan/Etherscan:**
 - Upload the 256x256 version directly via "Update Token Info"
+- Or paste URL: `https://raw.githubusercontent.com/jkm1317/tbusd-assets/main/logos/tbusd-logo-256.png`
 
 **For Websites:**
 ```html
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/tbusd-assets/main/logos/tbusd-logo-512.png" alt="TBillUSD Logo" width="128">
+<img src="https://raw.githubusercontent.com/jkm1317/tbusd-assets/main/logos/tbusd-logo-512.png" alt="TBillUSD Logo" width="128">
 ```
 
 ## Contract Addresses
