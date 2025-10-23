@@ -5,9 +5,10 @@ Public asset repository for TBillUSD (TBUSD) stablecoin.
 ## Logo Files
 
 ### TBUSD Logo (Transparent Background)
-- **256x256**: `logos/tbusd-logo-256.png` (66 KB) - Standard token logo size
-- **512x512**: `logos/tbusd-logo-512.png` (221 KB) - High-resolution variant
-- **Original**: `logos/tbusd-logo-original.png` (917 KB) - Full resolution source (1024x1024)
+- **256x256**: `logos/tbusd-logo-256.png` (54 KB) - Standard token logo size
+- **512x512**: `logos/tbusd-logo-512.png` (215 KB) - High-resolution variant
+- **80x80**: `logos/tbusd-logo-80.png` (6.4 KB) - Email signature size
+- **Original**: `logos/tbusd-logo-original.png` (255 KB) - Full resolution source (478x464)
 
 **Design:** Dark blue background with light blue "TB" text and upward arrow
 
